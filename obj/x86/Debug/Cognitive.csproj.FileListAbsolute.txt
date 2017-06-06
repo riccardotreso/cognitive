@@ -1,0 +1,5 @@
+/Users/riccardo/Projects/Test/Cognitive/bin/Debug/Cognitive.exe
+/Users/riccardo/Projects/Test/Cognitive/bin/Debug/Cognitive.pdb
+/Users/riccardo/Projects/Test/Cognitive/obj/x86/Debug/Cognitive.csproj.CoreCompileInputs.cache
+/Users/riccardo/Projects/Test/Cognitive/obj/x86/Debug/Cognitive.exe
+/Users/riccardo/Projects/Test/Cognitive/obj/x86/Debug/Cognitive.pdb
